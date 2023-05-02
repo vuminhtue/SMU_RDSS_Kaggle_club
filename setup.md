@@ -99,7 +99,7 @@ $ pip install Kaggle
 ![image](https://user-images.githubusercontent.com/43855029/193325895-5212e8fa-4b82-406b-a6ac-793abd702fd8.png)
 
 - The API Token **kaggle.json** is downloaded to your computer
-- Upload the **kaggle.json** to your M2 account under ~/.kaggle (**~** means home directory and **.** means hidden folder)
+- Upload the **kaggle.json** to your M2 account under ~/.kaggle ( **~** means home directory and **.** means hidden folder)
 
 ```
 scp kaggle.json yourusername@m2.smu.edu:/users/yourusername/.kaggle
